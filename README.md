@@ -36,6 +36,8 @@ Through *Hprose*, You can conveniently and efficiently intercommunicate between 
 
 This project is the implementation of Hprose for PSR7.
 
+You can use it with any PSR7 service framework, such as [Slim](http://www.slimphp.net/).
+
 ## Installation
 
 ### Download Source Code
